@@ -1,1 +1,1 @@
-expediente,lote,requisito,fuente,documento,vigencia,firma,estado,responsable
+expediente,lote,requisito,fuente,revision_fuente,documento,formato_exigido,formato_aportado,vigencia,firma,estado,responsable

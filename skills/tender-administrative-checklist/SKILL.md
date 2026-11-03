@@ -26,7 +26,7 @@ Trabaja con pliegos, anuncio, aclaraciones y documentación de la entidad. Neces
 
 ## Procedimiento
 
-1. Identifica expediente, lotes, procedimiento y versiones oficiales de anuncio y pliegos.
+1. Identifica expediente, lotes, procedimiento y versiones oficiales de anuncio y pliegos. Aplica cada corrección al requisito que modifica y conserva los requisitos no sustituidos; distingue cambios de formato de documentos añadidos.
 2. Extrae documentos, formatos y condiciones de presentación citando su fuente.
 3. Relaciona requisitos con evidencias reales de la entidad sin inventar solvencia ni certificaciones.
 4. Comprueba firmas, vigencias y coherencia de datos y registra aclaraciones necesarias.
